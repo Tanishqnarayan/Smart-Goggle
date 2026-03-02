@@ -92,31 +92,14 @@ Smart-Goggle-Drowsiness-Detector/
 ├── README.md
 
 ---
-
 ## 👨‍💻 Developed By
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &size=22
-    &pause=1000
-    &color=00F7FF
-    &center=true
-    &vCenter=true
-    &width=500
-    &lines=Tanishq+Narayan;IT+Engineering+Student;ESP32+Embedded+Project" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Tanishq+Narayan;IT+Engineering+Student;ESP32+Embedded+Project" />
 </p>
 
 ## 📜 License
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &size=18
-    &pause=1200
-    &color=00FF99
-    &center=true
-    &vCenter=true
-    &width=600
-    &lines=Developed+for+academic+and+learning+purposes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00FF99&center=true&vCenter=true&width=600&lines=Developed+for+academic+and+learning+purposes" />
 </p>
